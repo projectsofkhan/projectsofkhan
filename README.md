@@ -6,8 +6,8 @@
 
 Building in public. Shipping for real. Always growing.
 
-[![Website](https://img.shields.io/badge/Self%20Store-selfstore.vercel.app-a0522d?style=for-the-badge&logo=vercel&logoColor=white)](https://selfstore.vercel.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zeeshan40u.vercel.app-8b4a2b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zeeshan40u.vercel.app)
+[![Self Store](https://img.shields.io/badge/Self%20Store-selfstore.vercel.app-22b6d8?style=for-the-badge&logo=vercel&logoColor=white)](https://selfstore.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zeeshan40u.vercel.app-33c46a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zeeshan40u.vercel.app)
 
 </div>
 
@@ -31,7 +31,7 @@ The hub. Every project in one place.
 
 Curated, minimal, always up to date. Apps, PWAs, websites, and builder-made sites — all browsable by category.
 
-[![Open Self Store](https://img.shields.io/badge/Open%20Self%20Store-a0522d?style=for-the-badge&logo=vercel&logoColor=white)](https://selfstore.vercel.app)
+[![Open Self Store](https://img.shields.io/badge/Open%20Self%20Store-22b6d8?style=for-the-badge&logo=vercel&logoColor=white)](https://selfstore.vercel.app)
 
 ---
 
@@ -110,14 +110,14 @@ Instead of duplicating here, browse the full list at:
 
 ## Tech I use
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-22b6d8?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-22b6d8?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-33c46a?style=flat-square&logo=javascript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-33c46a?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-22b6d8?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-22b6d8?style=flat-square&logo=github&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-33c46a?style=flat-square&logo=cloudinary&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-22b6d8?style=flat-square&logo=capacitor&logoColor=white)
 
 ---
 
